@@ -21,10 +21,6 @@ You can check him out [here](https://discord.gg/AvCXfFfw2N) or add him to your s
 - **Description:** PurseCord brings interactive features to your Discord server with fun commands, games, and other customizable elements.  
 - **Link:** [Invite PurseCord](https://discord.com/oauth2/authorize?client_id=1274470515158945792)
 
-### ConvoHub - Chat App
-- **Description:** ConvoHub is a free Discord alternative that is currently being programmed by **3** developers. ConvoHub is expected to be available in the Google Play Store and Apple Store as well as the Microsoft Store by the end of **2025**
-- **Link:** [Invite ConvoHub(News Bot)](https://discord.com/oauth2/authorize?client_id=1255942361599709345)
-
 ### NextGen Development - Discord Server
 - **Description:** Join NextGen Development for exclusive insights, expert support, and innovative bots
 - **Link:** [Join Server](https://discord.gg/AvCXfFfw2N) 
