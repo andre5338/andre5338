@@ -1,12 +1,11 @@
 # 👋 About Me
 
 Hey there! ![Waving Emoji](https://cdn.discordapp.com/emojis/753595404192579654.gif?size=20)  
-I'm **Andre**, a passionate developer who loves building **Discord bots**. I'm currently working on my own bot called **Globby**, which is a global chat bot with features that other bots will never have
-You can check him out [here](https://discord.gg/blackcrew) or add him to your server by [clicking here](https://discord.com/oauth2/authorize?client_id=1285621638406209636).
+I'm **Andre**, a passionate developer who loves building **Discord bots**.
 
 ## 💬 How to Reach Me:
-- **Discord:** `.andre53` 
-- **Vibechat:** `andre`, `andre5338`
+- **Discord:** `.andre53`
+- **My Discord-Server:** https://discord.gg/zQRYbaXgNa
 
 ## 💻 What I Use:
 
@@ -18,10 +17,8 @@ You can check him out [here](https://discord.gg/blackcrew) or add him to your se
 
 ## 🚀 Projects:
 
-
-### Globby - Discord Bot
-- **Description:** Globby brings an improved type of global chat to your server! With daily updates and constant changes, Globby stays up to date
-- **Link:** [Invite Globby](https://discord.com/oauth2/authorize?client_id=1285621638406209636)
-
+- **My Discord-Server:** [Click Me](https://discord.gg/zQRYbaXgNa)
+- **Enhanced-Loop:** [Click Me](https://enhanced-loop.com)
+- **PurseCord:** [Click Me](https://discord.com/oauth2/authorize?client_id=1356445923114487818)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Andre5338&theme=dark)
