@@ -28,7 +28,7 @@ I design and deliver production-grade Discord bots and companion dashboards for 
 * Runtime & Frameworks: Node.js, Discord.js
 * Datastores: MongoDB, SQLite
 * Tooling: VS Code, GitHub, Docker
-* Badges: [https://skillicons.dev/icons?i=discord,mongodb,sqlite,nodejs,discordjs,vscode,html,github](https://skillicons.dev/icons?i=discord,mongodb,sqlite,nodejs,discordjs,vscode,html,github)
+* Badges: ![https://skillicons.dev/icons?i=discord,mongodb,sqlite,nodejs,discordjs,vscode,html,github](https://skillicons.dev/icons?i=discord,mongodb,sqlite,nodejs,discordjs,vscode,html,github)
 
 ---
 
@@ -50,7 +50,7 @@ I design and deliver production-grade Discord bots and companion dashboards for 
 
 ## Live Presence
 
-[https://lanyard.cnrad.dev/api/1180501233669242920](https://pursecord.com)
+![https://lanyard.cnrad.dev/api/1180501233669242920](https://pursecord.com)
 
 ---
 
