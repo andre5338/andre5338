@@ -50,7 +50,7 @@ I design and deliver production-grade Discord bots and companion dashboards for 
 
 ## Live Presence
 
-![https://lanyard.cnrad.dev/api/1180501233669242920](https://pursecord.com)
+![https://lanyard.cnrad.dev/api/1180501233669242920](https://lanyard.cnrad.dev/api/1180501233669242920)
 
 ---
 
